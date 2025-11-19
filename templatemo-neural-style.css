@@ -730,10 +730,10 @@ https://templatemo.com/tm-597-neural-glass
      background: linear-gradient(45deg, rgba(224, 163, 255, 0.2), rgba(255, 105, 180, 0.2));
 }
  .feature-row:nth-child(1) .feature-visual {
-     background-image: url('images/simplebuilding_taplayout_withpressures_and_maxima.jpg');
+     background-image: url('images/integrationwithtenantregistry.png');
 }
  .feature-row:nth-child(2) .feature-visual {
-     background-image: url('images/templatemo-neural-02.jpg');
+     background-image: url('images/demoimagescanner.png');
 }
  .feature-row:nth-child(3) .feature-visual {
      background-image: url('images/templatemo-neural-03.jpg');
@@ -753,7 +753,7 @@ https://templatemo.com/tm-597-neural-glass
 }
  .feature-content p {
      font-size: 1.1rem;
-     color: #cccccc;
+     color#2d4754;
      line-height: 1.8;
 }
 /* Section 3: Enhanced Hexagonal Showcase */
